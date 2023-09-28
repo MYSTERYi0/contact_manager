@@ -27,15 +27,21 @@ Welcome to Contact Manager App, a backend based web application (Only Backend) b
 <hr>
 <h3 align="center">OUTPUT SCREENSHOTS 📸</h3>
 <hr>
-<p align="center"><img width="450" height="250"alt="Screenshot 2023-09-28 112429" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/933cc544-e0d0-463f-a71d-818de253432c"><br>
+<p align="center">
+<br>
+<p align="center"><img width="450" height="250" alt="Screenshot 2023-09-28 112429" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/3a9caf18-88fc-42f2-9b73-e0ea7c2450b9"> </p>
 <center> 1. Webiste Routes</center><br>
-<p align="center"><img width="450" height="250" alt="register user" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/fd6bc9f5-bd7e-4ac3-97c9-6e8929a793ff"></p> <center> 2. User Registeration (Hashed Password)</center><br>
+
+<center><br><p align="center">
+<img width="450" height="250" alt="login user" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/7a696542-fe86-4ba5-8d2e-8d79a48159f1">
+</center>center><br> 2. User Registeration (Hashed Password)</p></center><br>
 
 <p align="center">
-<img width="450" height="250" alt="login user" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/d070983e-d0e4-41d2-8885-9a14a5fb0788">
-<center> 3. User LogIn (Access Token)</center><br>
-<p align="center">
-<img width="450" height="250" alt="user created contacts" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/c305c25e-c841-48f4-b221-93e18acb29d2">
+<img width="450" height="250" alt="login user" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/9c26076c-7eaf-4599-b400-4e519538ac95"><br>
+
+<center> 3. User LogIn (Access Token)
+<p align="center"><br>
+<img width="450" height="250" alt="user created contacts" src="https://github.com/MYSTERYi0/contact_manager/assets/80329775/ceb0e72a-c92c-4d0c-847c-f83e2b3e41ea"><br>
 <center> 4. Contacts of current user</center><br>
 
 <b>Author:</b>
